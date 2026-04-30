@@ -1,3 +1,6 @@
+> [!WARNING]
+> This package is deprecated as of May 2026.
+
 # NLR-branding
 NLR branding components
 - [NLR-branding](#nlr-branding)
